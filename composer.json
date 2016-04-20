@@ -1,0 +1,10 @@
+{
+    "require": {
+        "pear/http_request2": "2.2.1",
+        "fabpot/goutte": "^3.1"
+    },
+    "include-path": [
+        "vendor/pear/net_url2",
+        "vendor/pear/http_request2"
+    ]
+}
